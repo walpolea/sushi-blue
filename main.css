@@ -18,6 +18,9 @@ h3 {
     color: #005175;
 }
 
+
+/*** HEADER **/
+
 header {
     background-image: url("https://firebasestorage.googleapis.com/v0/b/awcom-bbb40.appspot.com/o/class-assets%2Fheaderbg.jpg?alt=media&token=657b36e6-86f6-43db-a8c6-2f0b50f666a6");
     background-size: cover;
@@ -58,6 +61,9 @@ header>#main-nav a {
     display: block;
 }
 
+
+/** PROMO **/
+
 #promo {
     background-color: #25303E;
 }
@@ -69,6 +75,9 @@ header>#main-nav a {
     width: 100%;
 }
 
+
+/** INFO SECTIONS **/
+
 .info-section {
     display: flex;
     align-items: center;
@@ -79,6 +88,9 @@ header>#main-nav a {
     padding: 10px;
     flex: 1;
 }
+
+
+/** MENU **/
 
 #menu {
     margin: 10px 20px;
@@ -135,6 +147,9 @@ header>#main-nav a {
     margin: 2px 0;
 }
 
+
+/** FOOTER **/
+
 footer {
     width: 200px;
     margin: 20px auto;
@@ -142,6 +157,9 @@ footer {
     line-height: 2rem;
     font-size: .8rem;
 }
+
+
+/** MEDIUM SCREEN **/
 
 @media screen and (min-width:560px) {
     body {
